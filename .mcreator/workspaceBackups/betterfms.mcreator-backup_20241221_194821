@@ -1,0 +1,58 @@
+{
+  "mod_elements": [
+    {
+      "name": "MaxMinecartSpeed",
+      "type": "gamerule",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "max_minecart_speed",
+      "metadata": {
+        "files": [],
+        "type": "number"
+      }
+    },
+    {
+      "name": "BetterFMS",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "better_fms",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "gamerule.maxMinecartSpeed": "MaxMS",
+      "item_group.betterfms.better_fms": "Better FMS",
+      "gamerule.maxMinecartSpeed.description": "set max minecrat speed"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "betterfms",
+    "modName": "BetterFMS",
+    "version": "1.0.0",
+    "description": "A Mod for minecraft forge.... the fms means Forge minecraft mod        ",
+    "author": "leonm",
+    "websiteURL": "https://dumbans.com",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.betterfms"
+  },
+  "mcreatorVersion": 202400232117
+}

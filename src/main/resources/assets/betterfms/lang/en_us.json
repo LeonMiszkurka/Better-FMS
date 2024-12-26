@@ -1,0 +1,5 @@
+{
+  "gamerule.maxMinecartSpeed": "MaxMS",
+  "item_group.betterfms.better_fms": "Better FMS",
+  "gamerule.maxMinecartSpeed.description": "set max minecrat speed"
+}

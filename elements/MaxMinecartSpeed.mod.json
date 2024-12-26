@@ -1,0 +1,12 @@
+{
+  "_fv": 66,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "MaxMS",
+    "description": "set max minecrat speed",
+    "category": "MISC",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 10
+  }
+}
